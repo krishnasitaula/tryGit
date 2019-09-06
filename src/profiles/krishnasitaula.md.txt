@@ -1,5 +1,5 @@
 ---
-username:krishnasitaula
+username: krishnasitaula
 
-fullname:Krishna Sitaula
+fullname: Krishna Sitaula
 ---
